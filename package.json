@@ -1,0 +1,1 @@
+{"name":"motion-controller-local","version":"1.0.0","private":true,"scripts":{"start":"node server.js","test":"node test.js"},"dependencies":{"@mediapipe/tasks-vision":"^1.1.1","express":"^4.21.2","qrcode":"^1.5.4","selfsigned":"^3.0.1","socket.io":"^4.8.1","socket.io-client":"^4.8.1"}}

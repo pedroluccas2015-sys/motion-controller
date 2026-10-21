@@ -1,0 +1,10 @@
+node_modules/
+.npm-cache/
+certs/
+runtime.json
+*.log
+__pycache__/
+public/pose_landmarker_lite.task
+.env
+.env.*
+*.zip
